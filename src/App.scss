@@ -8,42 +8,7 @@
   background-color: $white;
 }
 
-.main {
-  text-align: center;
-  background-color: white;
-}
-
-.image {
-  border-radius: 50%;
-  overflow: hidden;
-  width: 100px;
-}
-
-.hello {
-  word-wrap: break-word;
-}
-
-.educationName {
-  text-align: left;
-  color: rgb(247, 60, 60);
-  margin-top: 20px;
-  margin-bottom: 15px;
-}
-
-.year{
-  float: left;
-  padding-right: 50px;
-}
-
-.aboutMe {
-  text-align: left;
-}
-
-.text {
-  text-align: left;
-}
-
-.component {
-  margin-top: 15px;
-  margin-bottom: 15px;
+hr {
+  margin: 18px 0;
+  border: 2px solid #ededed;
 }
